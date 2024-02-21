@@ -1,5 +1,4 @@
-# navbars
-🚀🖥️ Responsive Navbars crafted using HTML, CSS & JavaScript
+# 🚀🖥️ Responsive Navbars crafted using HTML, CSS & JavaScript
 
 Welcome to the "Navbars" repository! This project showcases a collection of responsive navigation bars created using HTML, CSS, and JavaScript. 
 Whether you're building a simple website or a complex web application, these navbars provide flexible and customizable solutions for navigation needs.
